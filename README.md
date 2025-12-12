@@ -1,2 +1,2 @@
 # nit-patna
-this is hackathon repo
+This is Hackathon Repo
